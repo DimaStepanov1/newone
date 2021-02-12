@@ -246,7 +246,10 @@ li p {
     flex-direction: column;
     text-align: center;
 }
-
+.edited {
+    display: flex;
+    flex-direction: column;
+}
 .big {
     background-image: url(../images/mac.png);
     width: 300px;
